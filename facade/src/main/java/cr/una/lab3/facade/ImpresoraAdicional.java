@@ -11,15 +11,4 @@ package cr.una.lab3.facade;
  */
 public class ImpresoraAdicional extends Impresora {
 
-    public ImpresoraAdicional() {
-    }
-
-    public ImpresoraAdicional(String tipoDocumento, String hoja, boolean color, String texto) {
-        super(tipoDocumento, hoja, color, texto);
-    }
-
-    public ImpresoraAdicional(String texto) {
-        super("excel", "a3", false, texto);
-    }
-
 }

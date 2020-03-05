@@ -11,15 +11,4 @@ package cr.una.lab3.facade;
  */
 public class ImpresoraNormal extends Impresora {
 
-    public ImpresoraNormal() {
-    }
-
-    public ImpresoraNormal(String tipoDocumento, String hoja, boolean color, String texto) {
-        super(tipoDocumento, hoja, color, texto);
-    }
- 
-    public ImpresoraNormal(String texto) {
-        super("PDF", "A4", true, texto);
-    }
-            
 }
