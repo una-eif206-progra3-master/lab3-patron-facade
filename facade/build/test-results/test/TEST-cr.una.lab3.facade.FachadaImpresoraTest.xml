@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cr.una.lab3.facade.FachadaImpresoraTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-03-05T15:18:22" hostname="macbook-pro.costarica.corp.akamai.com" time="0.015">
+  <properties/>
+  <testcase name="create" classname="cr.una.lab3.facade.FachadaImpresoraTest" time="0.003"/>
+  <testcase name="testFachadaImpresora" classname="cr.una.lab3.facade.FachadaImpresoraTest" time="0.012"/>
+  <system-out><![CDATA[Impresora {tipoDocumento=excel, hoja=a3, color=false, texto=texto2}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
